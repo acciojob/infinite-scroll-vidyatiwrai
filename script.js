@@ -1,5 +1,5 @@
 // Get the list and create an array of initial list items
-const list = document.getElementById('list');
+const list = document.getElementById('infi-list');
 const initialListItems = Array.from(list.children);
 
 // Function to add new list items
